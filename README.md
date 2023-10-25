@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maximilianstan
+- 👋 Hi, I’m Maximilian !
 - 👀 I’m interested in coding, data science, finance, game development
 - 🌱 I’m currently learning SQL & Python
 - 💞️ I’m looking to collaborate on database projects
