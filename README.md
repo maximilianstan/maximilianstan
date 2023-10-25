@@ -21,9 +21,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="55" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="55" height="55"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="UnrealEngine" alt"UnrealEngine" width="50" height"50"/>
+  
+### 🧠: Stats :
 
-  <div id="header" align="center">
-  <img src="https://giphy.com/embed/l46Cy1rHbQ92uuLXa.gif" width="100"/>
-</div>
-
-<iframe src="https://giphy.com/embed/l46Cy1rHbQ92uuLXa" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/analytics-pixelmonkeys-tony-babel-l46Cy1rHbQ92uuLXa">via GIPHY</a></p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximilianstan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
