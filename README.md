@@ -22,6 +22,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="55" height="55"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="UnrealEngine" alt"UnrealEngine" width="50" height"50"/>
   
-### 🧠: Stats :
+### 🧠 Stats :
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximilianstan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
